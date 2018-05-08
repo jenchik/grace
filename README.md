@@ -11,7 +11,7 @@ package main
 import (
     "context"
 
-    "github.com/chapsuk/grace"
+    "github.com/jenchik/grace"
 )
 
 func main() {
